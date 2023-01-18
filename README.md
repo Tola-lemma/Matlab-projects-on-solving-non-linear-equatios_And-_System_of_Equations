@@ -1,4 +1,4 @@
-# Matlab-projects-on-solving-non-linear-equatios
+# Matlab-projects-on-solving-non-linear-equatios and system of equations
 This includes method of SOLVING NON LINEAR EQUATIONS like
    Bisection method ,
    False position method,
